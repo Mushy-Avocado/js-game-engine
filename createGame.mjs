@@ -768,4 +768,4 @@ const createGame = (function() {
     
 })();
 
-export createGame;
+export default createGame;
